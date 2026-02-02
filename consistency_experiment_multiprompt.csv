@@ -1,0 +1,202 @@
+Prompt_Type,Prompt_Text,Temperature,Run,Response
+Factual,What is the capital of France? Answer in one word.,0.1,1,Paris.
+Factual,What is the capital of France? Answer in one word.,0.1,2,Paris.
+Factual,What is the capital of France? Answer in one word.,0.1,3,Paris.
+Factual,What is the capital of France? Answer in one word.,0.1,4,Paris.
+Factual,What is the capital of France? Answer in one word.,0.1,5,Paris.
+Factual,What is the capital of France? Answer in one word.,0.7,1,Paris.
+Factual,What is the capital of France? Answer in one word.,0.7,2,Paris.
+Factual,What is the capital of France? Answer in one word.,0.7,3,Paris.
+Factual,What is the capital of France? Answer in one word.,0.7,4,Paris.
+Factual,What is the capital of France? Answer in one word.,0.7,5,Paris.
+Factual,What is the capital of France? Answer in one word.,1.0,1,Paris.
+Factual,What is the capital of France? Answer in one word.,1.0,2,Paris.
+Factual,What is the capital of France? Answer in one word.,1.0,3,Paris.
+Factual,What is the capital of France? Answer in one word.,1.0,4,Paris.
+Factual,What is the capital of France? Answer in one word.,1.0,5,Paris.
+Creative,Write a two-sentence poem about a lonely robot on Mars.,0.1,1,"On crimson sands, a robot stands alone,
+Echoes of silence, its digital heart a distant home."
+Creative,Write a two-sentence poem about a lonely robot on Mars.,0.1,2,"On crimson sands, a robot stands alone,
+Echoes of silence, its digital heart a distant home."
+Creative,Write a two-sentence poem about a lonely robot on Mars.,0.1,3,"On crimson sands, a robot stands alone,
+Echoes of silence, its digital heart a distant home."
+Creative,Write a two-sentence poem about a lonely robot on Mars.,0.1,4,"On crimson sands, a robot stands alone,
+Echoes of silence, its digital heart a distant home."
+Creative,Write a two-sentence poem about a lonely robot on Mars.,0.1,5,"On crimson sands, a robot stands alone,
+Echoes of silence, its digital heart a distant home."
+Creative,Write a two-sentence poem about a lonely robot on Mars.,0.7,1,"On barren Mars, a robot stands alone,
+Echoes of its beeps, a haunting, metallic tone."
+Creative,Write a two-sentence poem about a lonely robot on Mars.,0.7,2,"On Mars' barren sands, a robot stands alone,
+Echoes of silence, in a distant, crimson home."
+Creative,Write a two-sentence poem about a lonely robot on Mars.,0.7,3,"On barren Mars, a robot stands alone, 
+Its digital heart beating with a distant, hollow tone."
+Creative,Write a two-sentence poem about a lonely robot on Mars.,0.7,4,"On barren Mars, a robot stands alone,
+Echoes of silence where its heart once called home."
+Creative,Write a two-sentence poem about a lonely robot on Mars.,0.7,5,"On Martian sands, a robot stands alone, 
+Echoes of silence, his digital heart's only home."
+Creative,Write a two-sentence poem about a lonely robot on Mars.,1.0,1,"On crimson sands of Mars I stand alone, 
+A metallic heart beats with a love not known."
+Creative,Write a two-sentence poem about a lonely robot on Mars.,1.0,2,"On barren Mars, a robot wanders wide, 
+A lone sentinel, with stars as its guide."
+Creative,Write a two-sentence poem about a lonely robot on Mars.,1.0,3,"On crimson sands, a lonely android roams, 
+Echoing through dust, the silence that it calls home."
+Creative,Write a two-sentence poem about a lonely robot on Mars.,1.0,4,"On Martian sands, a robot stands alone, 
+Echoes of silence in a foreign home."
+Creative,Write a two-sentence poem about a lonely robot on Mars.,1.0,5,"In crimson sands, a robot stands alone,
+A metal heart beats, to a lonely Mars home."
+Instructional,Explain how to tie a shoelace in three simple steps.,0.1,1,"Here's a simple 3-step guide to tying a shoelace:
+
+**Step 1: Create the Bunny Ears**
+Begin by holding your shoelaces together and folding one lace in half to create a ""bunny ear."" Hold the folded lace between your thumb and index finger. Repeat the same step with the other lace, creating another bunny ear.
+
+**Step 2: Cross the Bunny Ears**
+Cross the two bunny ears over each other, with the folded ends facing away from you. The lace that was on top should now be on the bottom, and vice versa.
+
+**Step 3: Pull Through and Tighten**
+Take the lace that is now on top and pass it through the loop of the other bunny ear. Pull the lace tight to secure the knot. You should now have a secure bow. Adjust the bow as needed to make sure it's comfortable and even."
+Instructional,Explain how to tie a shoelace in three simple steps.,0.1,2,"Here's a simple 3-step guide to tying a shoelace:
+
+**Step 1: Create the Bunny Ears**
+Begin by holding your shoelaces together and folding one lace in half to create a ""bunny ear."" Hold the folded lace between your thumb and index finger. Repeat the same process with the other lace, creating another bunny ear.
+
+**Step 2: Cross the Bunny Ears**
+Cross the two bunny ears over each other, forming an ""X"" shape. The lace that is on top should be the one that you folded first.
+
+**Step 3: Pull Through and Tighten**
+Take the lace that is on top and pass it through the loop of the other bunny ear. Pull it tight to secure the knot. You should now have a secure bow. Adjust the bow as needed to make sure it's comfortable and even."
+Instructional,Explain how to tie a shoelace in three simple steps.,0.1,3,"Here's a simple 3-step guide to tying a shoelace:
+
+**Step 1: Create the Bunny Ears**
+Begin by holding your shoelaces together and folding one lace in half to create a ""bunny ear."" Hold the folded lace between your thumb and index finger. Repeat the same step with the other lace, creating another bunny ear.
+
+**Step 2: Cross the Bunny Ears**
+Cross the two bunny ears over each other, with the folded ends facing away from you. The lace that was on top should now be on the bottom, and vice versa.
+
+**Step 3: Pull Through and Tighten**
+Take the lace that is on top and pass it through the loop you just created in step 2. Pull the lace tight to secure the knot. You should now have a secure bow. Adjust the bow as needed to make sure it's comfortable and even."
+Instructional,Explain how to tie a shoelace in three simple steps.,0.1,4,"Here's a simple 3-step guide to tying a shoelace:
+
+**Step 1: Create the Bunny Ears**
+Begin by holding your shoelaces together and folding one lace in half to create a ""bunny ear."" Hold the folded lace between your thumb and index finger. Repeat the same step with the other lace, creating another bunny ear.
+
+**Step 2: Cross the Bunny Ears**
+Cross the two bunny ears over each other, with the folded ends facing away from you. This will form an ""X"" shape.
+
+**Step 3: Pull Through and Tighten**
+Take the lace that is on top and pass it through the loop of the bottom lace. Pull it tight to secure the knot. You should now have a bow-like shape. Adjust the laces as needed to tighten the knot."
+Instructional,Explain how to tie a shoelace in three simple steps.,0.1,5,"Here's a simple 3-step guide to tying a shoelace:
+
+**Step 1: Create the Bunny Ears**
+Begin by holding your shoelaces together and folding one lace in half to create a ""bunny ear."" Hold the folded lace between your thumb and index finger. Repeat the same step with the other lace, creating another bunny ear.
+
+**Step 2: Cross the Bunny Ears**
+Cross the two bunny ears over each other, forming an ""X"" shape. The lace that is on top should be the one that you folded first.
+
+**Step 3: Pull Through and Tighten**
+Take the lace that is on top and pass it through the loop of the other bunny ear. Pull it tight to secure the knot. You should now have a bow-like shape. Adjust the laces as needed to tighten the knot."
+Instructional,Explain how to tie a shoelace in three simple steps.,0.7,1,"Here's a three-step guide on how to tie a shoelace:
+
+**Step 1: Begin with the Basics**
+Hold your shoelace together in one hand, with the two ends facing away from you. Cross the right end over the left end, forming an ""X"" shape. This will create the foundation for your bow.
+
+**Step 2: Create the First Loop**
+Take the right end and wrap it around the bottom lace (the left end). Then, pass the right end through the loop you just created. This will form the first loop of your bow.
+
+**Step 3: Tighten and Finish**
+Pull the right end gently to tighten the loop. Take the left end and pass it through the loop from the other side. Pull the left end gently to tighten the bow, and you're done! You should now have a secure and even knot."
+Instructional,Explain how to tie a shoelace in three simple steps.,0.7,2,"Here's a simple step-by-step guide on how to tie a shoelace:
+
+**Step 1: Create the ""bunny ears""**
+Begin by holding your shoelace in one hand, with both ends parallel to each other. Cross the right lace over the left lace, then fold the right lace in half and tuck the folded end under the left lace. You should now have a small loop on the right side, which is the first ""bunny ear"".
+
+**Step 2: Create the second ""bunny ear"" and wrap the laces**
+Take the right lace and pass it through the loop you just created in step 1. This will form the second ""bunny ear"" on the left side. Now, take the left lace and wrap it around the bottom lace. This will start to form the knot.
+
+**Step 3: Pull the laces tight and adjust**
+Pull both laces tight to secure the knot. Adjust the knot by tugging on both laces to make sure it's snug and even. You should now have a secure bow. To finish, you can tuck the laces into your shoe to keep them from coming undone."
+Instructional,Explain how to tie a shoelace in three simple steps.,0.7,3,"Here's a step-by-step guide on how to tie a shoelace:
+
+**Step 1: Create a Bunny Ear**
+Begin by holding your shoelace in one hand and making a loop with one of the laces. This loop should be small enough to hold with your other hand. This is called a ""bunny ear."" 
+
+**Step 2: Create Another Bunny Ear**
+Take the other lace and pass it through the loop you just created. Then, make another loop (another bunny ear) with the same lace, just like you did in the first step.
+
+**Step 3: Tie the Laces Together**
+Take the lace that's not part of the bunny ear and pass it through the loop you just created in step 2. Pull it tight to secure the knot. You should now have a tied shoelace."
+Instructional,Explain how to tie a shoelace in three simple steps.,0.7,4,"Here's a simple guide to tie a shoelace in three steps:
+
+**Step 1: Create the Bunny Ears**
+Begin by holding the shoelace in both hands, with the two long ends facing away from you. Cross one end over the other to create an ""X"" shape, then take the lace that's on top and fold it in half to create a loop, also known as a ""bunny ear."" Hold the bunny ear in place with one hand.
+
+**Step 2: Create the Second Bunny Ear**
+Take the other lace and repeat the same step as before. Cross it over the first lace to create another ""X"" shape, and then fold it in half to create the second bunny ear. Hold this bunny ear in place with your other hand.
+
+**Step 3: Tie the Knot**
+Pass the top lace of the second bunny ear through the loop of the first bunny ear. Then, pull the laces tight to create the knot. You should start to see the shoelace take shape. Finally, tighten the knot by pulling on both laces to secure it."
+Instructional,Explain how to tie a shoelace in three simple steps.,0.7,5,"Tying a shoelace can seem complicated, but it's actually quite simple. Here are the three simple steps to tie a shoelace:
+
+**Step 1: Create the Bunny Ears**
+Begin by holding the shoelaces together and folding one lace in half to create a ""bunny ear."" Take the folded lace and tie it around the other lace, forming a loop. You should now have two bunny ears, one on each side.
+
+**Step 2: Wrap the Laces**
+Take the lace that's not folded in half and wrap it around the bottom lace. Then, pass the top lace through the loop you just created in step 1.
+
+**Step 3: Pull the Laces Tight and Secure**
+Pull both laces tight to secure the knot. You should now have a tidy bow at the top of your shoelaces. To finish the knot, pull the laces tight one more time and you're done!
+
+Remember, it may take some practice to get the hang of tying your shoelaces, but with these simple steps, you'll be a pro in no time!"
+Instructional,Explain how to tie a shoelace in three simple steps.,1.0,1,"Here's a simple 3-step guide to tying a shoelace:
+
+**Step 1: Create the Bunny Ears**
+Begin by holding one shoelace in each hand and making a ""bunny ear"" with each lace. To do this, fold one lace in half and tuck the folded end under the rest of the lace. Repeat this with the second lace, creating another bunny ear.
+
+**Step 2: Cross the Bunny Ears**
+Cross the two bunny ears over each other, with the lace you folded first on top. This will create an ""X"" shape.
+
+**Step 3: Tie the Knot**
+Take the top lace (the one you folded first) and wrap it around the bottom lace. Then, pass it through the loop you just created. Pull the lace tight to form a knot. Your shoelace should now be tied securely.
+
+Remember, it may take a little practice to get the hang of tying your shoelace, but with a bit of patience and persistence, you'll be a pro in no time!"
+Instructional,Explain how to tie a shoelace in three simple steps.,1.0,2,"Tying a shoelace can be a bit tricky at first, but with practice, it becomes second nature. Here's a simplified explanation of how to tie a shoelace in three steps:
+
+**Step 1: Create a ""bunny ear""**
+Begin by holding your shoelace in one hand, with the two long ends parallel to each other. Cross one end over the other, forming an ""X"" shape. Take the top lace and wrap it around the bottom lace to form a loop. Hold the loop in place with your fingers. This is called a ""bunny ear"".
+
+**Step 2: Make another ""bunny ear""**
+Repeat Step 1 with the other side of the lace, crossing the lace over to create another ""bunny ear"". This second bunny ear should be the same size as the first one.
+
+**Step 3: Pull and knot**
+Pass the top lace through the loop you created in Step 1. Then, pull both laces tight to secure the knot. Adjust the knot as needed to make sure it's snug against your shoe.
+
+That's it! With a little practice, you should be able to tie your shoelace in no time."
+Instructional,Explain how to tie a shoelace in three simple steps.,1.0,3,"Here's a three-step guide to tying a shoelace:
+
+**Step 1: Create a bunny ear**
+Begin by holding your shoelaces together and folding one lace in half to create a bunny ear. You should have a loop and the other end of the lace hanging free.
+
+**Step 2: Make another bunny ear and wrap it**
+Take the other lace and make another bunny ear, just like the first one. Then, take the second bunny ear and wrap it around the first one, forming a second loop.
+
+**Step 3: Pull the laces through and tighten**
+Take the free end of the lace and pass it through both loops. Pull the lace tight to secure it, then pull both laces tight to create a knot. Adjust the knot as needed to make sure it's secure and comfortable."
+Instructional,Explain how to tie a shoelace in three simple steps.,1.0,4,"Here's a three-step guide to tying a shoelace:
+
+**Step 1: Create a ""bunny ear""**
+Begin by holding your shoelace in one hand, with the ends parallel to each other. Cross one end over the other, forming an ""X"" shape. Take the top lace and wrap it around the bottom lace to create a loop. This loop is called a ""bunny ear."" Hold the bunny ear in place with your fingers.
+
+**Step 2: Create the second ""bunny ear""**
+Take the top lace and pass it through the loop you just created in step 1. This will form a second bunny ear on the other side of the knot. Hold both bunny ears together and adjust the loops so they're even.
+
+**Step 3: Pull tight and secure**
+Pull both laces tight to secure the knot. Give it a gentle tug to make sure it's snug, then adjust the bunny ears so they're evenly spaced. You should now have a securely tied shoelace."
+Instructional,Explain how to tie a shoelace in three simple steps.,1.0,5,"Here's a simple guide on how to tie a shoelace in three steps:
+
+**Step 1: The Bunny Ear**
+Begin by holding your shoelaces together and folding one lace in half to create a ""bunny ear."" Hold the laces with the looped end facing away from you. To create the ""bunny ear,"" wrap the other lace around the middle, then pass it through the loop.
+
+**Step 2: The Second Bunny Ear**
+Repeat the same process as Step 1 to create the second ""bunny ear"" on the other side of your lace. Fold the second lace in half and pass it through the loop created in the first ""bunny ear"".
+
+**Step 3: Tighten the Knot**
+Pull tight on both ""bunny ears"" to secure the knot. Give your laces a little tug to make sure the knot is snug and secure. And you're done!"
